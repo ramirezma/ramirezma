@@ -7,5 +7,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ramirezma90@gmail.com
 - 😄 Pronouns: tincho, jony, dany, danilo
-- ⚡ Fun fact: me 😜
-
+- ⚡ Fun fact: 
