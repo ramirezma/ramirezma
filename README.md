@@ -7,4 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ramirezma90@gmail.com
 - 😄 Pronouns: tincho, jony, dany, danilo
-- ⚡ Fun fact: 
+
+https://www.linkedin.com/in/ramirezma/
+https://github.com/ramirezma/MercadoLiebre - Practica HTML / CSS / JS
+https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce
