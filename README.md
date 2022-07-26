@@ -9,5 +9,7 @@
 - 😄 Pronouns: tincho, jony, dany, danilo
 
 https://www.linkedin.com/in/ramirezma/
+
 https://github.com/ramirezma/MercadoLiebre - Practica HTML / CSS / JS
+
 https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce
