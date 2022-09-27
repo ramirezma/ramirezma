@@ -1,15 +1,27 @@
-### Hola soy Tincho 😎
+### Hola soy Martín 😎
 
-- 🔭 I’m currently working on developing my skills and knowledge as a programmer 💻💻
-- 🌱 I am currently learning Javascript, nodeJS, HTML5, CSS, react, APi
-- 👯 I’m looking to collaborate in everything related to what I am learning
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ramirezma90@gmail.com
-- 😄 Pronouns: tincho, jony, dany, danilo
+Programador en desarrollo 💻
+Graduado de digitalhouse.com/ar - Programación WEB full stack 😏
 
-https://www.linkedin.com/in/ramirezma/
+Me pueden encontrar acá linkedin.com/in/ramirezma/
 
-https://github.com/ramirezma/MercadoLiebre - Practica HTML / CSS / JS
+Proyectos realizados:
+- https://github.com/ramirezma/MercadoLiebre - Practica HTML / CSS / JS
+- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce - 
+  Proyecto integrador de Digital House. Realizado en grupo de 3 personas.
+  Actualmente me encuentro realizando desarrollo sobre el mismo para mejorarlo.
+  
+-------------------------------------------------------------------------------------  
+  
+  ### Hi, I'm Martin 😎
 
-https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce
+Developing programmer 💻
+Graduated from digitalhouse.com/ar - full stack WEB Programming 😏
+
+You can find me here linkedin.com/in/ramirezma/
+
+Fulfilled projects:
+- https://github.com/ramirezma/MercadoLiebre - Practice HTML / CSS / JS
+- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practice e-commerce -
+  Integrative project of Digital House. Made in a group of 3 people.
+  I am currently developing it to improve it.
