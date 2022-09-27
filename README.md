@@ -7,7 +7,7 @@ Me pueden encontrar acá linkedin.com/in/ramirezma/
 
 Proyectos realizados:
 - https://github.com/ramirezma/MercadoLiebre - Practica HTML / CSS / JS
-- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce - 
+- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce
   Proyecto integrador de Digital House. Realizado en grupo de 3 personas.
   Actualmente me encuentro realizando desarrollo sobre el mismo para mejorarlo.
   
@@ -16,12 +16,12 @@ Proyectos realizados:
   ### Hi, I'm Martin 😎
 
 Developing programmer 💻
-Graduated from digitalhouse.com/ar - full stack WEB Programming 😏
+Graduated from digitalhouse.com/ar - Full stack WEB programming 😏
 
 You can find me here linkedin.com/in/ramirezma/
 
 Fulfilled projects:
 - https://github.com/ramirezma/MercadoLiebre - Practice HTML / CSS / JS
-- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practice e-commerce -
-  Integrative project of Digital House. Made in a group of 3 people.
+- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practice e-commerce
+  Integrative project of Digital House. Made in a group of 3.
   I am currently developing it to improve it.
