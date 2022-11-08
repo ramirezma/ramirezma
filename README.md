@@ -22,6 +22,6 @@ You can find me here linkedin.com/in/ramirezma/
 
 Fulfilled projects:
 - https://github.com/ramirezma/MercadoLiebre - Practice HTML / CSS / JS
-- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practice e-commerce
+- https://github.com/ramirezma/Mundo-suculento - Practice e-commerce
   Integrative project of Digital House. Made in a group of 3.
   I am currently developing it to improve it.
