@@ -7,7 +7,7 @@ Me pueden encontrar acá linkedin.com/in/ramirezma/
 
 Proyectos realizados:
 - https://github.com/ramirezma/MercadoLiebre - Practica HTML / CSS / JS
-- https://github.com/ElAgussz/grupo_7_proyectointegrador - Practica e-commerce
+- https://github.com/ramirezma/Mundo-suculento - Practica e-commerce
   Proyecto integrador de Digital House. Realizado en grupo de 3 personas.
   Actualmente me encuentro realizando desarrollo sobre el mismo para mejorarlo.
   
